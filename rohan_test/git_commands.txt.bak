@@ -1,0 +1,41 @@
+#  Initial commands
+
+git init
+
+git add .
+
+git commit -m 'First commit'
+
+git remote add origin <repository url>
+
+git push origin <branch name>
+
+git pull origin <branch name>
+
+# Git branch merge commands
+
+git status
+
+git checkout <branch name>
+
+git merge <branch name>
+
+# Delete File
+
+git rm -r <path-of-the-file>
+
+git commit -m 'remove'
+
+git push origin <branch name>
+
+
+# Status of the branch
+
+git branch
+
+# Switch to the other branch
+
+git checkout  <branch name>
+
+
+
