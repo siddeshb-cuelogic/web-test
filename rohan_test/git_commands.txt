@@ -49,3 +49,7 @@ https://github.com/s0enke/git-hooks/tree/master/phpcs-pre-commit
 3) Put the Config file "config" into the same directory as the "pre-commit" script and edit it as per your settings.
 
 4) That's it, try committing the changes you will get the list of errors related with coding standard and you have to fix them before committing otherwise file will not get committed on particular branch
+
+5) Change the path in pre-commit and config file for the code sniffer bin
+
+
